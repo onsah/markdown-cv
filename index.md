@@ -2,85 +2,71 @@
 layout: cv
 title: Isaac Newtons's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Onur Şahin
+Computer Science Student, Programmer
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<t> sahinonur2000@hotmail.com</t>
+| <a href="https://github.com/onsah">My Github page</a> 
+| <a href="https://www.linkedin.com/in/onur-%C5%9Fahin-70581a155/"> My LinkedIn page</a>
+<div> cGPA: 3.26/4.00 </div>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Working on side projects and contributing open source projects. Looking for internship experiences.
 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+Programming languages, Interpreters, Virtual Machines, Emulation, Mobile Development, Backend Development
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2012-2016`
+__Trabzon Net College__
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+- High School
 
-- Sizar
+`2017-2021`
+__Bilkent University__
 
-`1667 - death`
-__Trinity College, Cambridge__
+- University
 
-- Fellow
+## Experiences
 
+`2018 Summer`
+__Internship experience in PEKS automation__
+- Local positioning library
+    - In Java 
+    - No external libraries
+- GUI app for project management
+    - Designed User Interface of various parts like login screen
+    - Contributed to the functionality of the app
 
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
+`16/07/2019-15/08/2019`
+__Intenship at FNSS__
+- Line based diff utility
+    - Made research about diff algorithms
+    - Implemented Myer's algorithm from scratch
+    - Followed an Object Oriented design approach while developing
 
 
-## Occupation
+## Awards and successes
 
-`1600`
-__Royal Mint__, London
+`2015`
+Honor, Genius Olympiads, Oswago, USA
 
-- Warden
-- Minted coins
+`2016`
+Placed 156th among 1.5 million student in Turkey University Entrace Exam (Ygs)
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+## Courses
+
+__Algorithms and Data structures 1__
+
+__Algorithms and Data structures 2__
 
 
 
