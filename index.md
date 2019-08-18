@@ -28,11 +28,11 @@ Language Parsers, Bytecode Interpreters, Compilers, Mobile Development, Window M
 `2017-2021`
 __Bilkent University__
 
-- University
-- *Full Scholarship*
+- __Full Scholarship__
 
 `2006-2016`
 __Bilim ve Sanat Merkezi__
+
 Bilim ve Sanat Merkezi is a special foundation by the Turkey goverment which focuses on education of gifted students. In early years students start with general concepts like scientific learning then they assigned to more specialized areas like physics or math.
 
 ## Experiences
@@ -40,9 +40,9 @@ Bilim ve Sanat Merkezi is a special foundation by the Turkey goverment which foc
 `16/07/2019-15/08/2019`
 __Intenship at FNSS__
 - Line based diff utility (<a href="">TermDiff</a>)
-    - *Implemented Myer's algorithm from scratch*
+    - __Implemented Myer's algorithm from scratch__
     - Achieved linear time complexity by using Myer's algorithm
-    - *Software is currently being used at Fnss Company*
+    - __Software is currently being used at Fnss Company__
     - Followed a mix between Object Oriented and Functional programming design principals while developing
     - Added inline diffs on top of line diffs 
     - Implemented a simple and useful web UI using plain Javascript and Html
@@ -50,13 +50,13 @@ __Intenship at FNSS__
 `2018 Summer`
 __Internship at PEKS automation__
 - Local positioning library
-    - *Implemented local posititioning algorithm from scratch*
+    - __Implemented local posititioning algorithm from scratch__
     - Used Java programming language
-    - *No external libraries are used*
+    - __No external libraries are used__
 
 - Embedded GUI app for project management
     - Designed user interface of various parts of the app
-    - *Generally followed Google's Material design for user interface*
+    - __Generally followed Google's Material design for user interface__
     - Contributed to the functionality of the app
     - Using JavaFX framework
 
@@ -64,16 +64,16 @@ __Internship at PEKS automation__
 
 `2019 Summer`
 <a href="https://github.com/onsah/Flux_rs/">__Flux programming language__: https://github.com/onsah/Flux_rs/</a> 
-- *Simple and fully featured scripting language*
+- __Fully featured scripting language implementation__
 - Bytecode interpreted
-- *Completely written from scratch without and external libraries for parsing, compiling, etc.*
-- *Handwritten recursive descent parser*
+- __Completely written from scratch without and external libraries for parsing, compiling, etc.__
+- __Handwritten recursive descent parser__
 - Internal bytecode representation for performance
 
 `April - June 2018`
 <a href="https://github.com/onsah/BICOME">__BICOME__: https://github.com/onsah/BICOME</a> 
 - A biology simulation game for teaching natural selection
-- *Followed Google's Material Design Guideliness*
+- __Followed Google's Material Design Guideliness__
 - Designed the UI with mockup tools before implementation
 - Implemented UI using JavaFX framework
 - Helped implementing main logic of the game
@@ -88,7 +88,7 @@ __Internship at PEKS automation__
 ## Awards and successes
 
 `2016`
-*Placed 156th among 1.5 million student in Turkey University Entrace Exam (Ygs)*
+__Placed 156th among 1.5 million student in Turkey University Entrace Exam (Ygs)__
 
 `2015`
 Science Project competition, Honor award, Genius Olympiads, Oswago, USA
