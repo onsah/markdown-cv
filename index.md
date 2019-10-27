@@ -47,6 +47,12 @@ __Intenship at FNSS Savunma Sistemler A.Ş.__
     - Added inline diffs on top of line diffs 
     - Implemented a simple and useful web UI using plain Javascript and Html
 
+`Spring 2019`
+__Tutor Assistant on CS115 labs__
+- Helped students to complete their lab assignments by teaching basic programming principles
+    - Studied python language
+    - Teached basic programming concepts
+
 `2018 Summer`
 __Internship at PEKS Automation A.Ş.__
 - Local positioning library
