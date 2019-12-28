@@ -127,6 +127,7 @@ __Algorithms__
 - Master theorem
 - Dynamic programming
 - Greedy programming
+- Amortization
 
 ## TextBooks
 The textbooks that I read in my free time:
