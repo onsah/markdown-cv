@@ -47,6 +47,14 @@ __Intenship at FNSS Savunma Sistemler A.Ş.__
     - Added inline diffs on top of line diffs 
     - Implemented a simple and useful web UI using plain Javascript and Html
 
+`Fall 2019`
+__Implementation of interpreters__
+- Teached how to implement interpreters from scratch for 5 weeks
+    - Teached BNF and EBNF notation
+    - Teached how to write a recursive descent parser without a parser library
+    - Implemented a simple language for educational purposes
+    - Source code of the course is [here: https://github.com/onsah/Interpreter](https://github.com/onsah/Interpreter)
+
 `Spring 2019`
 __Tutor Assistant on CS115 labs__
 - Helped students to complete their lab assignments by teaching basic programming principles
