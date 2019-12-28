@@ -117,14 +117,16 @@ __Computer Organization__
 - Assembly programming
 - Computer Architecture
 
-`Fall 2019`
 __Programming Languages__
 
-`Fall 2019`
 __Operating Systems__
 
-`Fall 2019`
 __Object Oriented Programming__
+
+__Algorithms__
+- Master theorem
+- Dynamic programming
+- Greedy programming
 
 ## TextBooks
 The textbooks that I read in my free time:
