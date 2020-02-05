@@ -10,7 +10,7 @@ Computer Science Student, Programmer
 <br/> <a href="https://github.com/onsah">GitHub: https://github.com/onsah</a>
 <br/> <a href="https://www.linkedin.com/in/onur-%C5%9Fahin-70581a155/"> LinkedIn: https://www.linkedin.com/in/onur-%C5%9Fahin-70581a155/</a>
 <br/> <a href="https://www.hackerrank.com/sahinonur2000"> Hackerrank: https://www.hackerrank.com/sahinonur2000</a>
-<div> cGPA: 3.26/4.00 </div>
+<div> cGPA: 3.38/4 | term GPA: 3.81/4 </div>
 </div>
 
 
