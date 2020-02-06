@@ -10,7 +10,7 @@ Computer Science Student, Programmer
 <br/> <a href="https://github.com/onsah">GitHub: https://github.com/onsah</a>
 <br/> <a href="https://www.linkedin.com/in/onur-%C5%9Fahin-70581a155/"> LinkedIn: https://www.linkedin.com/in/onur-%C5%9Fahin-70581a155/</a>
 <br/> <a href="https://www.hackerrank.com/sahinonur2000"> Hackerrank: https://www.hackerrank.com/sahinonur2000</a>
-<div> cGPA: 3.26/4.00 </div>
+<div> cGPA: 3.38/4 | term GPA: 3.81/4 </div>
 </div>
 
 
@@ -21,13 +21,13 @@ Working on side projects and contributing open source projects. Looking for inte
 
 ## Interests
 
-Language Parsers, Bytecode Interpreters, Compilers, Mobile Development, Window Managers, Virtual Machines, GUI development
+Language Parsers, Bytecode Interpreters, Compilers, Mobile Development, Linux Window Managers, Virtual Machines, GUI development
 
 ## Education
 
 `2017-2021`
 __Bilkent University__
-
+- __Computer Science__
 - __Full Scholarship__
 
 `2006-2016`
@@ -38,17 +38,31 @@ Bilim ve Sanat Merkezi is a special foundation by the Turkey goverment which foc
 ## Experiences
 
 `16/07/2019-15/08/2019`
-__Intenship at FNSS__
+__Intenship at FNSS Savunma Sistemler A.Ş.__
 - Line based diff utility (<a href="">TermDiff</a>)
     - __Implemented Myer's algorithm from scratch__
     - Achieved linear time complexity by using Myer's algorithm
-    - __Software is currently being used at Fnss Company__
+    - __Software is currently being used at FNSS__
     - Followed a mix between Object Oriented and Functional programming design principals while developing
     - Added inline diffs on top of line diffs 
     - Implemented a simple and useful web UI using plain Javascript and Html
 
+`Fall 2019`
+__Implementation of interpreters__
+- Teached how to implement interpreters from scratch for 5 weeks
+    - Teached BNF and EBNF notation
+    - Teached how to write a recursive descent parser without a parser library
+    - Implemented a simple language for educational purposes
+    - Source code of the course is [here: https://github.com/onsah/Interpreter](https://github.com/onsah/Interpreter)
+
+`Spring 2019`
+__Tutor Assistant on CS115 labs__
+- Helped students to complete their lab assignments by teaching basic programming principles
+    - Studied python language
+    - Teached basic programming concepts
+
 `2018 Summer`
-__Internship at PEKS automation__
+__Internship at PEKS Automation A.Ş.__
 - Local positioning library
     - __Implemented local posititioning algorithm from scratch__
     - Used Java programming language
@@ -100,15 +114,20 @@ __Algorithms and Data structures 1__
 __Algorithms and Data structures 2__
 
 __Computer Organization__
+- Assembly programming
+- Computer Architecture
 
-`Fall 2019`
 __Programming Languages__
 
-`Fall 2019`
 __Operating Systems__
 
-`Fall 2019`
 __Object Oriented Programming__
+
+__Algorithms__
+- Master theorem
+- Dynamic programming
+- Greedy programming
+- Amortization
 
 ## TextBooks
 The textbooks that I read in my free time:
@@ -120,9 +139,10 @@ The textbooks that I read in my free time:
 
 __Tuna Çağlar Gümüş__
 - Lead PLM Systems Engineer
-- Fnss company
+- FNSS Savunma Sistemler A.Ş.
 - Ankara, Turkey
 - tunacaglargumus@gmail.com
+- 0555 201 01 03
 
 
 
