@@ -32,3 +32,10 @@ jobs:
           htmlFile: ./_site/index.html
           outputFile: ./CV.pdf
           pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
+      
+      - name: commit
+        run:  git config --local user.email "$(git log --format='%ae' HEAD^!)"
+              git config --local user.name "$(git log --format='%an' HEAD^!)"
+              git add .
+              git commit -m "updating PDF"
+              git push
