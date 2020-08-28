@@ -12,6 +12,15 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
+  always-job:
+    
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+        
   # This workflow contains a single job called "build"
   build:
     # The type of runner that the job will run on
@@ -22,9 +31,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         
-      # Runs a single command using the runners shell
-      - name: Run a one-line script
-        run: echo Hello, world!
+      
         
       # Generate html file
       - name: Jekyll Action
@@ -38,4 +45,4 @@ jobs:
         with:
           htmlFile: ./_site/index.html
           outputFile: ./CV.pdf
-          pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}
+          pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}'
