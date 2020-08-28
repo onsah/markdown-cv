@@ -21,11 +21,21 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
-
+        
       # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+        
+      # Generate html file
+      - name: Jekyll Action
+        uses:  helaili/jekyll-action@2.0.4
+        env: 
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
+
+      # convert HTML website to PDF
       - name: html to pdf
         uses: fifsky/html-to-pdf-action@master
         with:
-          htmlFile: https://onsah.github.io/markdown-cv/index.html
+          htmlFile: ./_site/index.html
           outputFile: ./CV.pdf
           pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}
