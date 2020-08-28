@@ -1,0 +1,172 @@
+I" <h1 id="onur-şahin">Onur Şahin</h1>
+<p>Computer Science Student, Open source contributor, Hobbyist Guitar Player</p>
+
+<div id="webaddress">
+<t> sahinonur2000@hotmail.com</t> 
+<br /> <a href="https://github.com/onsah">GitHub: https://github.com/onsah</a>
+<br /> <a href="https://www.linkedin.com/in/onur-%C5%9Fahin-70581a155/"> LinkedIn: https://www.linkedin.com/in/onur-%C5%9Fahin-70581a155/</a>
+<br /> <a href="https://www.hackerrank.com/sahinonur2000"> Hackerrank: https://www.hackerrank.com/sahinonur2000</a>
+<div> cGPA: 3.42/4 </div>
+</div>
+
+<h2 id="currently">Currently</h2>
+
+<p>Doing internship research with iVis-at-Bilkent organization.</p>
+
+<h2 id="interests">Interests</h2>
+
+<p>Language Parsers, Bytecode Interpreters, Compilers, Functional Programming, Mobile Development, Virtual Machines, desktop GUI development</p>
+
+<h2 id="education">Education</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2017-2021</code>
+<strong>Bilkent University</strong></p>
+<ul>
+  <li><strong>Computer Science</strong></li>
+  <li><strong>Full Scholarship</strong></li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2006-2016</code>
+<strong>Bilim ve Sanat Merkezi</strong></p>
+
+<p>Bilim ve Sanat Merkezi is a special foundation by the Turkey government which focuses on education of gifted students. In early years students start with general concepts like scientific learning then they assigned to more specialized areas like physics or math.</p>
+
+<h2 id="experiences">Experiences</h2>
+
+<p><code class="language-plaintext highlighter-rouge">June 2020 - Not Finished</code>
+<strong>Research and Internship at iVis</strong></p>
+<ul>
+  <li><a href="">Incremental Packing Research (Not finished yet)</a>
+    <ul>
+      <li>Packing of disconnected graphs is an important topic in various areas. There are very efficient algorithms in terms of fullness but these algorithms ignore the initial layout of the graphs. We are trying to come up with a feasible packing algorithm that works incrementally so that user preserves their mental map</li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/iVis-at-Bilkent/cytoscape.js-layout-utilities">Cytoscape Layout Utilities https://github.com/iVis-at-Bilkent/cytoscape.js-layout-utilities</a>
+    <ul>
+      <li>Formerly, the packing algorithm of this extension was centering to the point (0, 0).</li>
+      <li>Added the ability to pack the components according to the old center.</li>
+      <li>Fixed some bugs in the code such as converting decimal to integer</li>
+      <li>For my contributions you can check <a href="https://github.com/iVis-at-Bilkent/cytoscape.js-layout-utilities/pull/19">PR #19</a></li>
+    </ul>
+  </li>
+  <li><a href="https://github.com/onsah/cytoscape.js-context-menus">Cytoscape Context Menus https://github.com/onsah/cytoscape.js-context-menus</a>
+    <ul>
+      <li>Removed jQuery dependency by replacing functionality of jQuery with DOM api or implementing the similar functions by hand</li>
+      <li>Added recursive submenu feature. Formerly the extension only had top level menu and no submenu. I added nested submenus so that any menu item can have submenus.</li>
+      <li>Configured project with webpack and babel to develop using modern js but deploy in more compatible js version for browsers. Learned about modern js tools such as bundlers</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">16/07/2019-15/08/2019</code>
+<strong>Internship at FNSS Savunma Sistemleri A.Ş.</strong></p>
+<ul>
+  <li>Line based diff utility (<a href="">TermDiff</a>)
+    <ul>
+      <li>Implemented a diff utility similar to git but specialized it for a particular output format.</li>
+      <li><strong>Implemented Myer’s algorithm from scratch</strong></li>
+      <li>Achieved linear time complexity by using Myer’s algorithm</li>
+      <li><strong>Software is currently being used at FNSS</strong></li>
+      <li>Followed a mix between Object Oriented and Functional programming design principals while developing</li>
+      <li>Added inline diffs on top of line diffs</li>
+      <li>Implemented a simple and useful web UI using plain Javascript and Html</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Fall 2019</code>
+<strong>Teaching Interpreters</strong></p>
+<ul>
+  <li>Teached how to implement interpreters from scratch for 5 weeks
+    <ul>
+      <li>Teached BNF and EBNF notation</li>
+      <li>Teached how to write a recursive descent parser without a parser library</li>
+      <li>Implemented a simple language for educational purposes</li>
+      <li>Source code of the course is <a href="https://github.com/onsah/Interpreter">here: https://github.com/onsah/Interpreter</a></li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">Spring 2019</code>
+<strong>Tutor Assistant on CS115 labs</strong></p>
+<ul>
+  <li>Helped students to complete their lab assignments by teaching basic programming principles
+    <ul>
+      <li>Studied python language</li>
+      <li>Teached basic programming concepts</li>
+    </ul>
+  </li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">2018 Summer</code>
+<strong>Internship at PEKS Automation A.Ş.</strong></p>
+<ul>
+  <li>Implemented geolocation algorithm</li>
+  <li>Contributed the development of an embedded GUI program.</li>
+</ul>
+
+<h2 id="projects--contributions">Projects &amp; Contributions</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2019 Summer</code>
+<a href="https://github.com/onsah/Flux_rs/"><strong>Flux programming language</strong>: https://github.com/onsah/Flux_rs/</a></p>
+<ul>
+  <li><strong>Fully featured scripting language implementation</strong></li>
+  <li>Bytecode interpreted</li>
+  <li><strong>Completely written from scratch without using external libraries for parsing, compiling, etc.</strong></li>
+  <li><strong>Handwritten recursive descent parser</strong></li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">July 2019</code>
+<a href="https://github.com/GNOME/gjs"><strong>Contribution to GJS:</strong> https://github.com/GNOME/gjs</a></p>
+<ul>
+  <li>Gjs is a javascript runtime used for Gnome Desktop Environment</li>
+  <li>Added unit tests which increased code coverage</li>
+</ul>
+
+<p><a href="https://github.com/hannesschulze/conecto"><strong>Conecto:</strong> https://github.com/hannesschulze/conecto</a></p>
+<ul>
+  <li>Added clipboard sync functionality which allows user to copy from phone and paste from pc and vice versa.</li>
+  <li>Used Gtk UI library and Vala programming language</li>
+  <li>You can check my contributions at <a href="https://github.com/hannesschulze/conecto/pull/11">PR #11</a></li>
+</ul>
+
+<p><code class="language-plaintext highlighter-rouge">May 2019</code>
+<a href="https://github.com/RustPython/RustPython/pull/943"><strong>Contribution to RustPython standard library</strong>: https://github.com/RustPython/RustPython/pull/943</a></p>
+<ul>
+  <li>Learned insights about interpreters</li>
+  <li>Implemented some python standard library functions as native functions</li>
+</ul>
+
+<h2 id="awards-and-successes">Awards and successes</h2>
+
+<p><code class="language-plaintext highlighter-rouge">2016</code>
+<strong>Placed 156th among 1.5 million student in Turkey University Entrance Exam (Ygs)</strong></p>
+
+<p><code class="language-plaintext highlighter-rouge">2015</code>
+Science Project competition, Honor award, Genius Olympiads, Oswego, USA</p>
+
+<h2 id="textbooks">TextBooks</h2>
+<p>The textbooks that I read in my free time:</p>
+<ul>
+  <li>Modern Compiler Construction in ML (Currently Reading)</li>
+  <li>Programming – Principles and Practice Using C++ - Bjarne Strousburp</li>
+  <li>The Rust Programming Language - Steve Klabnik and Carol Nichols</li>
+</ul>
+
+<h2 id="references">References</h2>
+
+<p><strong>Tuna Çağlar Gümüş</strong></p>
+<ul>
+  <li>He was my supervisor at my internship in FNSS company. He offered to me to be a reference for me.</li>
+  <li>Lead PLM Systems Engineer</li>
+  <li>FNSS Savunma Sistemleri A.Ş.</li>
+  <li>Ankara, Turkey</li>
+  <li>tunacaglargumus@gmail.com</li>
+  <li>0555 201 01 03</li>
+</ul>
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+:ET
