@@ -26,6 +26,6 @@ jobs:
       - name: html to pdf
         uses: fifsky/html-to-pdf-action@master
         with:
-          htmlFile: https://onsah.github.io/markdown-cv/
+          htmlFile: https://onsah.github.io/markdown-cv/index.html
           outputFile: ./CV.pdf
           pdfOptions: '{"format": "A4", "margin": {"top": "10mm", "left": "10mm", "right": "10mm", "bottom": "10mm"}}
