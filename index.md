@@ -16,7 +16,7 @@ Computer Science Student, Open source contributor, Hobbyist Guitar Player
 
 ## Currently
 
-Doing internship  research with iVis-at-Bilkent organization.
+Doing internship research with iVis-at-Bilkent organization.
 
 
 ## Interests
