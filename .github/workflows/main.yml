@@ -23,7 +23,8 @@ jobs:
       - uses: actions/checkout@v2
         
       # Generate HTML
-      - uses:  lemonarc/jekyll-action@1.0.0
+      - name: gen HTML
+        run: jekyll build
 
       # convert HTML website to PDF
       - name: html to pdf
