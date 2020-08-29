@@ -76,10 +76,15 @@ __Tutor Assistant on CS115 labs__
     - Studied python language
     - Teached basic programming concepts
 
-`2018 Summer`
+`Summer 2018`
 __Internship at PEKS Automation A.Ş.__
 - Implemented geolocation algorithm
 - Contributed the development of an embedded GUI program.
+
+`August 2019`
+__ICFP 2020__
+- ICFP is a conference about functional programming. It is an event of SIGPLAN.
+- Attended here as a listener because I am interested in programming languages design and implementation.
 
 ## Projects & Contributions
 
