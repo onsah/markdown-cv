@@ -16,7 +16,7 @@ Computer Science Student, Open source contributor, Hobbyist Guitar Player
 
 ## Currently
 
-Doing internship research with iVis-at-Bilkent organization.
+Doing internship research with iVis-at-Bilkent organization. Studying compilers in his free time
 
 
 ## Interests
@@ -62,6 +62,11 @@ __Internship at FNSS Savunma Sistemleri A.Ş.__
     - Added inline diffs on top of line diffs 
     - Implemented a simple and useful web UI using plain Javascript and Html
 
+`August 2020`
+__ICFP 2020__
+- ICFP is a conference about functional programming. It is an event of SIGPLAN.
+- Attended here as a listener because I am interested in programming languages design and implementation.
+
 `Fall 2019`
 __Teaching Interpreters__
 - Teached how to implement interpreters from scratch for 5 weeks
@@ -81,10 +86,6 @@ __Internship at PEKS Automation A.Ş.__
 - Implemented geolocation algorithm
 - Contributed the development of an embedded GUI program.
 
-`August 2019`
-__ICFP 2020__
-- ICFP is a conference about functional programming. It is an event of SIGPLAN.
-- Attended here as a listener because I am interested in programming languages design and implementation.
 
 ## Projects & Contributions
 
@@ -94,6 +95,7 @@ __ICFP 2020__
 - Bytecode interpreted
 - __Completely written from scratch without using external libraries for parsing, compiling, etc.__
 - __Handwritten recursive descent parser__
+- Implemented using Rust
 
 `July 2019`
 <a href="https://github.com/GNOME/gjs">__Contribution to GJS:__ https://github.com/GNOME/gjs</a>

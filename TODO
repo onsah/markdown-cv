@@ -1,2 +1,1 @@
 1. use this: https://github.com/marketplace/actions/convert-html-to-pdf because it renders through chrome
-2. Cache for lower server usage
