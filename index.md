@@ -3,7 +3,7 @@ layout: cv
 title: Onur Sahin's CV
 ---
 # Onur Şahin
-Computer Science Student, Open source contributor, Hobbyist Guitar Player
+Computer Science Student, Open source contributor, Amateur Guitar Player
 
 <div id="webaddress">
 <t> sahinonur2000@hotmail.com</t> 
@@ -21,42 +21,30 @@ Doing internship research with iVis-at-Bilkent organization. Studying compilers 
 
 ## Interests
 
-Language Parsers, Bytecode Interpreters, Compilers, Functional Programming, Mobile Development, Virtual Machines, desktop GUI development
-
-## Education
-
-`2017-2021`
-__Bilkent University__
-- __Computer Science__
-- __Full Scholarship__
-
-`2006-2016`
-__Bilim ve Sanat Merkezi__
-
-Bilim ve Sanat Merkezi is a special foundation by the Turkey government which focuses on education of gifted students. In early years students start with general concepts like scientific learning then they assigned to more specialized areas like physics or math.
+Parsers, Bytecode Interpreters, Compilers, Functional Programming, Mobile Development, Virtual Machines, Desktop GUI development
 
 ## Experiences
 
 `June 2020 - Not Finished`
 __Research and Internship at iVis__
-- [Incremental Packing Research (Not finished yet)]()
+- Incremental Packing Research (In progress)
   - Packing of disconnected graphs is an important topic in various areas. There are very efficient algorithms in terms of fullness but these algorithms ignore the initial layout of the graphs. We are trying to come up with a feasible packing algorithm that works incrementally so that user preserves their mental map
 - [Cytoscape Layout Utilities https://github.com/iVis-at-Bilkent/cytoscape.js-layout-utilities](https://github.com/iVis-at-Bilkent/cytoscape.js-layout-utilities)
-  - Formerly, the packing algorithm of this extension was centering to the point (0, 0).
-  - Added the ability to pack the components according to the old center.
-  - Fixed some bugs in the code such as converting decimal to integer
+  - Formerly, the packing algorithm of this extension was centering to the a fixed point
+  - Added the ability to preserve to the current center of components
+  - Fixed some bugs that would lead the algorithm to crash
   - For my contributions you can check [PR #19](https://github.com/iVis-at-Bilkent/cytoscape.js-layout-utilities/pull/19)
 - [Cytoscape Context Menus https://github.com/onsah/cytoscape.js-context-menus](https://github.com/onsah/cytoscape.js-context-menus)
-  - Removed jQuery dependency by replacing functionality of jQuery with DOM api or implementing the similar functions by hand
-  - Added recursive submenu feature. Formerly the extension only had top level menu and no submenu. I added nested submenus so that any menu item can have submenus.
-  - Configured project with webpack and babel to develop using modern js but deploy in more compatible js version for browsers. Learned about modern js tools such as bundlers
+  - Removed jQuery dependency by replacing functionality of jQuery with DOM api or implementing the similar functions
+  - Added recursive submenu feature. Formerly the extension only had top level menu and no submenu. I added nested submenus so that any menu item can have submenus
+  - Configured project with webpack and babel to develop using modern js but deploy in more compatible js version for browsers. Learned about modern js tools such as bundlers and transpilers
 
 `16/07/2019-15/08/2019`
 __Internship at FNSS Savunma Sistemleri A.Ş.__
-- Line based diff utility (<a href="">TermDiff</a>)
-    - Implemented a diff utility similar to git but specialized it for a particular output format.
+- Line based diff utility
+    - Implemented a diff utility similar to git but specialized the tool for a particular output format.
     - __Implemented Myer's algorithm from scratch__
-    - Achieved linear time complexity by using Myer's algorithm
+    - Achieved a scalable performance for large inputs by using Myer's algorithm
     - __Software is currently being used at FNSS__
     - Followed a mix between Object Oriented and Functional programming design principals while developing
     - Added inline diffs on top of line diffs 
@@ -120,6 +108,18 @@ __Placed 156th among 1.5 million student in Turkey University Entrance Exam (Ygs
 `2015`
 Science Project competition, Honor award, Genius Olympiads, Oswego, USA
 
+## Education
+
+`2017-2021`
+__Bilkent University__
+- __Computer Science__
+- __Full Scholarship__
+
+`2006-2016`
+__Bilim ve Sanat Merkezi__
+
+Bilim ve Sanat Merkezi is a special foundation by the Turkey government which focuses on education of gifted children. In early years students start with general concepts like scientific learning then they assigned to more specialized areas like physics or math.
+
 ## TextBooks
 The textbooks that I read in my free time:
 - Modern Compiler Construction in ML (Currently Reading)
@@ -140,6 +140,6 @@ __Tuna Çağlar Gümüş__
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: May 2020 -->
 
 
